@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">FoSer</string>
+
+    <!-- Main activity -->
+    <string name="info_state"> Service state: </string>
+    <string name="info_service_running">Service IS running...</string>
+    <string name="info_service_not_running">Service is NOT running...</string>
+    <string name="info_actions"> Service action: </string>
+    <string name="button_start">Start</string>
+    <string name="button_restart">Restart</string>
+    <string name="button_stop">Stop</string>
+    <string name="info_settings"> Service settings: </string>
+
+    <!-- Foreground service -->
+    <string name="service_title">FoSer!</string>
+    <string name="service_initial_info">Service is just running...</string>
+    <string name="service_initial_settings">Settings...</string>
+
+    <!-- Settings Activity Title -->
+    <string name="settings_name">Settings</string>
+
+    <!-- Main menu -->
+    <string name="settings_item">Settings</string>
+    <string name="exit_item">Exit</string>
+
+    <!-- Settings Activity Title -->
+    <string name="activity_settings_title">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="notification_header"> Notification information</string>
+    <string name="sync_header">Synchronization</string>
+
+    <!-- Messages Preferences -->
+    <string name="message_title">Message to show</string>
+    <string name="reply_title">Display counter</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Work periodicly</string>
+    <string name="double_speed_title">Double speed</string>
+    <string name="double_speed_summary_on">Double working frequency</string>
+    <string name="double_speed_summary_off">Standard operating frequency</string>
+</resources>
